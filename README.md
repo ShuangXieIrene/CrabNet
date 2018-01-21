@@ -28,5 +28,5 @@ Run the model.py file with suitable papermeters, which you can find inside the f
 
 ## 3. Results:
 The result is evaluated based on the FB15K dataset.
-
+![image](results/sgd_l2.png) 
 
